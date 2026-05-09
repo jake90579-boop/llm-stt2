@@ -1,0 +1,102 @@
+{
+  "map_name": "general_hospital_1f",
+  "building": "종합병원",
+  "floor": "1F",
+  "zones": [
+    {
+      "name": "화장실",
+      "description": "1층 좌측 복도 중간",
+      "frame_id": "map",
+      "type": "rectangle",
+      "x_min": 1.5952353477478027,
+      "x_max": 4.207822799682617,
+      "y_min": 33.98832321166992,
+      "y_max": 36.54472732543945,
+      "created_at": 1775990803.6178308,
+      "rotation_deg": -6.0
+    },
+    {
+      "name": "소아청소년과",
+      "description": "1층 좌측 복도 처음",
+      "frame_id": "map",
+      "type": "rectangle",
+      "x_min": 5.411035537719727,
+      "x_max": 6.884141445159912,
+      "y_min": 23.075538635253906,
+      "y_max": 26.571086883544922,
+      "created_at": 1775990988.5987246,
+      "rotation_deg": -3.0
+    },
+    {
+      "name": "원무과",
+      "description": "1층 우측 복도 처음",
+      "frame_id": "map",
+      "type": "rectangle",
+      "x_min": 8.097041130065918,
+      "x_max": 11.265166282653809,
+      "y_min": 56.51491928100586,
+      "y_max": 60.03001403808594,
+      "created_at": 1775991610.8511147,
+      "rotation_deg": -7.0
+    },
+    {
+      "name": "약국",
+      "description": "1층 우측 복도 처음",
+      "frame_id": "map",
+      "type": "rectangle",
+      "x_min": 4.450687408447266,
+      "x_max": 8.138456344604492,
+      "y_min": 54.28763198852539,
+      "y_max": 64.99774169921875,
+      "created_at": 1775991720.801941,
+      "rotation_deg": -7.0
+    },
+    {
+      "name": "내과",
+      "description": "1층 우측 복도 중간",
+      "frame_id": "map",
+      "type": "rectangle",
+      "x_min": 5.04992151260376,
+      "x_max": 9.635443687438965,
+      "y_min": 65.86051940917969,
+      "y_max": 77.74774169921875,
+      "created_at": 1775991893.6177802,
+      "rotation_deg": -8.0
+    },
+    {
+      "name": "외과",
+      "description": "1층 우측 복도 끝",
+      "frame_id": "map",
+      "type": "rectangle",
+      "x_min": 7.006505966186523,
+      "x_max": 11.152314186096191,
+      "y_min": 78.67971801757812,
+      "y_max": 88.24301147460938,
+      "created_at": 1775991914.3361733,
+      "rotation_deg": -9.0
+    },
+    {
+      "name": "산부인과",
+      "description": "1층 좌측 복도 끝",
+      "frame_id": "map",
+      "type": "rectangle",
+      "x_min": 4.570859432220459,
+      "x_max": 8.00384521484375,
+      "y_min": 1.3424451351165771,
+      "y_max": 12.702445983886719,
+      "created_at": 1775991966.7019901,
+      "rotation_deg": -1.0
+    },
+    {
+      "name": "track",
+      "frame_id": "map",
+      "type": "rectangle",
+      "x_min": 10.606071472167969,
+      "x_max": 16.445484161376953,
+      "y_min": 53.36130905151367,
+      "y_max": 56.18898010253906,
+      "rotation_deg": -6.0,
+      "created_at": 1775994166.4801486
+    }
+  ]
+}
